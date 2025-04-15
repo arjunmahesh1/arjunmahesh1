@@ -2,7 +2,7 @@
 
 <h3>About Me:</h3>
 
-🎓: Computer Science, Statistics, Mathematics, and Finance  
+🎓: Computer Science, Mathematics, Statistics, and Finance  
 🏫: Duke University  
 🏙: Seattle, WA  
 📧: arjun.mahesh@duke.edu  
